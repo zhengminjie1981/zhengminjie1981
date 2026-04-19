@@ -17,7 +17,7 @@ A collection of specialized AI skills for Claude Code, covering database managem
 | Plugin | Description |
 |--------|-------------|
 | [Hidden Folders Access](https://github.com/zhengminjie1981/obsidian-hidden-folders-access) | Make hidden folders (dot-prefixed) visible in Obsidian, with recursive subfolder scanning and tree-based selection UI |
-| [Plugin Manager](https://github.com/zhengminjie1981/obsidian-plugin-manager) | Browse and sync community plugins across multiple Obsidian vaults on the same machine |
+| [Plugin Manager](https://github.com/zhengminjie1981/obsidian-plugin-manager) | Manage and sync third-party plugins across multiple Obsidian vaults on the same machine |
 
 ---
 
